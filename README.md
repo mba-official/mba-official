@@ -5,7 +5,7 @@
 
 - 📫 You can reach me through email: **mbilaldevop+github@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">OR Connect with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/mba-chora/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mba-chora/" height="30" width="40" /></a>
 </p>
