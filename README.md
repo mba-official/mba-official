@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 <h3 align="center">A passionate PHP Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Self-Project "MERN Discuss"**
+- 🔭 I’m currently working on **Self-Project "Apna-Home"**
 
 - 📫 You can reach me through email: **mbilaldevop+github@gmail.com**
 
