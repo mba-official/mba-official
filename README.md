@@ -43,6 +43,3 @@ I enjoy learning by **building, breaking, and fixing things**, and I believe con
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mba-official&theme=default" alt="GitHub Streak" />
-</p>
