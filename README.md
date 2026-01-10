@@ -1,16 +1,48 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
-<h3 align="center">A passionate PHP Developer from Pakistan</h3>
+<h3 align="center">A tech enthusiast & cybersecurity learner from Pakistan 🇵🇰</h3>
 
-- 🔭 I’m currently working on **Self-Project "Apna-Home"**
+---
 
-- 📫 You can reach me through email: **mbilaldevop+github@gmail.com**
+### 👨‍💻 About Me
 
-<h3 align="left">OR Connect with me on:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/mba-chora/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mba-chora/" height="30" width="40" /></a>
+I’m a curious and self-driven **technology enthusiast** with a strong interest in:
+
+- 🔐 Cybersecurity & system security  
+- 🌐 Web technologies  
+- 🧠 Understanding how systems work behind the scenes  
+
+I enjoy learning by **building, breaking, and fixing things**, and I believe consistent hands-on practice is the best way to grow in tech.
+
+---
+
+### 🧰 Skills & Technologies
+
+- **Web Basics:** HTML, CSS, JavaScript
+- **Programming:** Python (basics & scripting)  
+- **Databases:** MySQL, Supabase  
+- **Other:** Git, GitHub, Linux  
+
+---
+
+### 🎯 Mindset & Interests
+
+- Passionate about **technology and security**
+- Strong believer in **continuous learning**
+- Interested in how real-world systems are designed and protected
+- Prefer clarity, simplicity, and practical solutions over hype
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: **mbilaldevop+github@gmail.com**
+- 💼 LinkedIn:  
+  <a href="https://linkedin.com/in/in/mba-chora/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mba-official&theme=default" alt="GitHub Streak" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mba-official&" alt="mba-official" /></p>
