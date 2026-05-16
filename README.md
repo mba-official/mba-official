@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Web_Developer-1+%20Years%20Exp-00b4d8?style=flat-square" alt="Web Developer">
-  <img src="https://img.shields.io/badge/Focus-Web_Application_Pentesting-00f5d4?style=flat-square" alt="Pentesting">
+  <img src="https://img.shields.io/badge/Focus-Web_Application_Pentesting-00A18B?style=flat-square" alt="Pentesting">
   <img src="https://img.shields.io/badge/Target-Bug_Hunting-ff0054?style=flat-square" alt="Bug Hunting">
 </p>
 
