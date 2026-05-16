@@ -1,49 +1,43 @@
-# ⚔️ Muhammad Bilal
-### `// STATUS: LEARNING_CYBERSECURITY_`
+# Muhammad Bilal
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Web_Developer-1+%20Years%20Exp-00b4d8?style=flat-square" alt="Web Developer">
-  <img src="https://img.shields.io/badge/Focus-Web_Application_Pentesting-00A18B?style=flat-square" alt="Pentesting">
-  <img src="https://img.shields.io/badge/Target-Bug_Hunting-ff0054?style=flat-square" alt="Bug Hunting">
-</p>
+**`// STATUS: Junior Penetration Tester_`**
 
-Welcome to my terminal! I am a **Web Developer** with 1+ year of experience building applications for agencies and academic institutions. Currently, I am deeply pivoting into **Cybersecurity**, focusing my energy on securing digital infrastructure, analyzing network traffic, and uncovering critical vulnerabilities before the bad actors do.
+Web Developer with 1+ year of experience. Currently diving deep into cybersecurity — focused on web application pentesting and securing digital infrastructure.
 
 ---
 
-## 🛠️ System Capabilities
+### What I Do
 
-### 💻 Secure Web Development
-* **Languages & Core:** `HTML / CSS` • `JavaScript` • `Python`
-* **Frameworks & UI:** `React` • `Tailwind CSS`
-
-### 🛡️ Offensive & Defensive Cybersecurity
-* **Tools of the Trade:** `Burp Suite` • `Wireshark`
-* **Domains:** `Networking` • `Web Application Pentesting` • `Bug Hunting`
-
-### 🗄️ Data Infrastructure & Environment
-* **Databases:** `MySQL` • `Supabase`
-* **Environments:** `Linux` • `Git`
+- 🌐 Build websites for agencies and academic institutions
+- 🔍 Hunt for vulnerabilities in web applications
+- 🚩 Practice on PortSwigger Labs & CTF challenges
 
 ---
 
-## 🎯 Personal Pursuits
-> `● ACTIVE: PENETRATION_PRACTICE`
+### Tech Stack
 
-* **🪲 PortSwigger Labs:** Deep-diving into web application security. Actively practicing hands-on exploitation of real-world vulnerabilities including SQLi, XSS, CSRF, IDOR, and broken authentication.
-* **🚩 CTF Challenges:** Participating in Capture The Flag competitions to sharpen critical problem-solving skills across cryptography, network forensics, and reverse engineering.
+**Development**
+`HTML/CSS` `JavaScript` `React` `Tailwind CSS` `Python`
+
+**Security**
+`Burp Suite` `Wireshark` `Networking`
+
+**Tools & Data**
+`Linux` `Git` `MySQL` `Supabase`
+
+---
+
+### Hobbies
+
+**PortSwigger Labs** — Hands-on exploitation of SQLi, XSS, and broken authentication.
+
+**CTF Challenges** — Cryptography, digital forensics, and reverse engineering competitions.
 
 ---
 
-## 💼 Ready for Deployment
+### Let's Connect
 
-Looking for a secure web presence, custom frontend build, or a web application vulnerability assessment? Let's connect. I am currently accepting freelance projects and collaboration opportunities.
+📧 mbilaldevop@gmail.com
+📍 Punjab, Pakistan
 
-* **📧 Email:** [mbilaldevop@gmail.com](mailto:mbilaldevop@gmail.com)
-* **📍 Location:** Punjab, Pakistan
-* **🔗 LinkedIn:** `[Your LinkedIn Link Here]`
-
----
-<p align="center">
-  <sub><code>⚡ Built with precision. Hardened for security. ⚡</code></sub>
-</p>
+> *Web Developer • Web App Pentester • Bug Hunter*
