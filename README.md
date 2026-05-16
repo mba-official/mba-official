@@ -1,45 +1,49 @@
-<h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
-<h3 align="center">A tech enthusiast & cybersecurity learner from Pakistan 🇵🇰</h3>
+# ⚔️ Muhammad Bilal
+### `// STATUS: LEARNING_CYBERSECURITY_`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Web_Developer-1+%20Years%20Exp-00b4d8?style=flat-square" alt="Web Developer">
+  <img src="https://img.shields.io/badge/Focus-Web_Application_Pentesting-00f5d4?style=flat-square" alt="Pentesting">
+  <img src="https://img.shields.io/badge/Target-Bug_Hunting-ff0054?style=flat-square" alt="Bug Hunting">
+</p>
+
+Welcome to my terminal! I am a **Web Developer** with 1+ year of experience building applications for agencies and academic institutions. Currently, I am deeply pivoting into **Cybersecurity**, focusing my energy on securing digital infrastructure, analyzing network traffic, and uncovering critical vulnerabilities before the bad actors do.
 
 ---
 
-### 👨‍💻 About Me
+## 🛠️ System Capabilities
 
-I’m a curious and self-driven **technology enthusiast** with a strong interest in:
+### 💻 Secure Web Development
+* **Languages & Core:** `HTML / CSS` • `JavaScript` • `Python`
+* **Frameworks & UI:** `React` • `Tailwind CSS`
 
-- 🔐 Cybersecurity & system security  
-- 🌐 Web technologies  
-- 🧠 Understanding how systems work behind the scenes  
+### 🛡️ Offensive & Defensive Cybersecurity
+* **Tools of the Trade:** `Burp Suite` • `Wireshark`
+* **Domains:** `Networking` • `Web Application Pentesting` • `Bug Hunting`
 
-I enjoy learning by **building, breaking, and fixing things**, and I believe consistent hands-on practice is the best way to grow in tech.
-
----
-
-### 🧰 Skills & Technologies
-
-- **Web Basics:** HTML, CSS, JavaScript
-- **Programming:** Python (basics & scripting)  
-- **Databases:** MySQL, Supabase  
-- **Other:** Git, GitHub, Linux  
+### 🗄️ Data Infrastructure & Environment
+* **Databases:** `MySQL` • `Supabase`
+* **Environments:** `Linux` • `Git`
 
 ---
 
-### 🎯 Mindset & Interests
+## 🎯 Personal Pursuits
+> `● ACTIVE: PENETRATION_PRACTICE`
 
-- Passionate about **technology and security**
-- Strong believer in **continuous learning**
-- Interested in how real-world systems are designed and protected
-- Prefer clarity, simplicity, and practical solutions over hype
-
----
-
-### 📫 Connect With Me
-
-- 📧 Email: **mbilaldevop+github@gmail.com**
-- 💼 LinkedIn:  
-  <a href="https://linkedin.com/in/in/mba-chora/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
+* **🪲 PortSwigger Labs:** Deep-diving into web application security. Actively practicing hands-on exploitation of real-world vulnerabilities including SQLi, XSS, CSRF, IDOR, and broken authentication.
+* **🚩 CTF Challenges:** Participating in Capture The Flag competitions to sharpen critical problem-solving skills across cryptography, network forensics, and reverse engineering.
 
 ---
 
+## 💼 Ready for Deployment
+
+Looking for a secure web presence, custom frontend build, or a web application vulnerability assessment? Let's connect. I am currently accepting freelance projects and collaboration opportunities.
+
+* **📧 Email:** [mbilaldevop@gmail.com](mailto:mbilaldevop@gmail.com)
+* **📍 Location:** Punjab, Pakistan
+* **🔗 LinkedIn:** `[Your LinkedIn Link Here]`
+
+---
+<p align="center">
+  <sub><code>⚡ Built with precision. Hardened for security. ⚡</code></sub>
+</p>
